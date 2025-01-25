@@ -15,7 +15,7 @@ body {
   font-size: 16px;
   line-height: 20px;
   letter-spacing: 0.2em;
-  background: linear-gradient(180deg, #392657 0%, rgba(57, 38, 87, 0.8) 100%);
+  background: linear-gradient(180deg, #0D5758 0%, #147865 100%);
   color: #ffffff;
 }
 
@@ -76,7 +76,7 @@ ul {
   width: 55%;
   height: 3px;
   bottom: -12px;
-  background: #a178b9;
+  background: #F2B715;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
@@ -100,7 +100,7 @@ ul {
   letter-spacing: 0.3em;
   font-size: 70px;
   text-align: center;
-  color: #a178b9;
+  color: #FCB117;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
@@ -120,7 +120,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color: #cc8bf2;
+  color: #FCB117;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -136,7 +136,7 @@ ul {
   width: 60%;
   height: 1px;
   bottom: -13px;
-  background: #fff;
+  background: #ffffff;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
@@ -151,6 +151,7 @@ ul {
 
 .info-block__img {
   align-self: center;
+  bottom: 30px;
 }
 
 .skills {
@@ -164,7 +165,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color: #cc8bf2;
+  color: #FCB117;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -215,7 +216,7 @@ ul {
 }
 
 .skill__button:hover {
-  color: #cc8bf2;
+  color: #FCB117;
 }
 
 .project {
@@ -247,7 +248,7 @@ ul {
   width: 55%;
   height: 3px;
   bottom: -12px;
-  background: #a178b9;
+  background: #147865;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
@@ -266,7 +267,7 @@ ul {
   font-size: 60px;
   position: relative;
   text-align: left;
-  color: #cc8bf2;
+  color: #FCB117;
   line-height: 1;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -301,8 +302,8 @@ ul {
 .form__input {
   width: 100%;
   font: inherit;
-  background: #392657;
-  border: 2px solid #a178b9;
+  background: #F2B715;
+  border: 2px solid #926b00;
   color: #fff;
   padding: 15px;
   border-radius: 10px;
@@ -324,7 +325,7 @@ ul {
   font: inherit;
   font-weight: 800;
   color: #fff;
-  background: linear-gradient(111.97deg, #CC8BF2 35.63%, rgba(204, 139, 242, 0) 150.16%);
+  background: linear-gradient(111.97deg, #00eaff 35.63%, rgba(204, 139, 242, 0) 150.16%);
   filter: drop-shadow(5px 5px 4px rgba(0, 0, 0, 0.25));
   padding: 15px 30px;
   border-radius: 20px;
